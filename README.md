@@ -1,2 +1,0 @@
-# shorewall
-configuracion por default
